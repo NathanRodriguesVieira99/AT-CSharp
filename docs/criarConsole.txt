@@ -1,0 +1,7 @@
+mkdir nome pasta do execício
+
+cd na pasta do exercício
+
+dotnet new console
+
+mv Program.cs nomeDoExercício.cs
