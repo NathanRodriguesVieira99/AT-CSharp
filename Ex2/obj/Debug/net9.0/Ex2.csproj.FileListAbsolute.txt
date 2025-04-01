@@ -12,3 +12,4 @@ C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex2\obj\Debug\net9.0\refint\Ex2.dll
 C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex2\obj\Debug\net9.0\Ex2.pdb
 C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex2\obj\Debug\net9.0\Ex2.genruntimeconfig.cache
 C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex2\obj\Debug\net9.0\ref\Ex2.dll
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex2\obj\Debug\net9.0\Ex2.sourcelink.json
