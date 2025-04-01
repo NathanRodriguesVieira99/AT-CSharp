@@ -1,0 +1,15 @@
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\bin\Debug\net9.0\Ex9.exe
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\bin\Debug\net9.0\Ex9.deps.json
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\bin\Debug\net9.0\Ex9.runtimeconfig.json
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\bin\Debug\net9.0\Ex9.dll
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\bin\Debug\net9.0\Ex9.pdb
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.AssemblyInfoInputs.cache
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.AssemblyInfo.cs
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.sourcelink.json
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.dll
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\refint\Ex9.dll
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.pdb
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\Ex9.genruntimeconfig.cache
+C:\Projetos VsCode\AT-CSharp-Final\AT-CSharp\Ex9\obj\Debug\net9.0\ref\Ex9.dll
