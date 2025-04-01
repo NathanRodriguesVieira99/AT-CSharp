@@ -21,7 +21,7 @@ class Ex11
 
             switch (opcao)
             {
-                // add ncontato
+                // add contato
                 case "1":
                     AdicionarContato(arquivoContatos);
                     break;
